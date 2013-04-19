@@ -7,3 +7,6 @@ C:\Github\SampleRepository\ConsoleApplication1\ConsoleApplication1\obj\Debug\Con
 C:\Github\SampleRepository\sampleRepo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Github\SampleRepository\sampleRepo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Github\SampleRepository\sampleRepo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Github\ForkEdCopy\sampleRepo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Github\ForkEdCopy\sampleRepo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Github\ForkEdCopy\sampleRepo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

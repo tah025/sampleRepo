@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.Write("Hello from upstream");
             Console.Write("Hello from team member");
+            Console.Write("Hello 2 from upstream");
         }
     }
 }

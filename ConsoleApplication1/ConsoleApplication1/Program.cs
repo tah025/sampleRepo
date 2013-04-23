@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello from upstream");
+            Console.Write("Hello 2 from upstream");
         }
     }
 }
